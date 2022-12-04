@@ -20,4 +20,4 @@ public class Laptop extends Perangkat{
     public void kirimEmail(String email1, String email2){
         System.out.println("Laptop berhasil mengirim Email ke "+email1+" dan ke "+email2);
     }
-} 
+}  
